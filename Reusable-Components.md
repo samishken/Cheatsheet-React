@@ -8,6 +8,3 @@
 * Define the following design types: Atoms, Molecules & Organisms
 
 * PropTypes
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
